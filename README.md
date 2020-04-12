@@ -1,2 +1,2 @@
 # Sample-Projects
-# this is a sample project repsoitory 
+# this is a sample project reposoitory 
